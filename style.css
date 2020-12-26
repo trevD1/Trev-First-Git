@@ -1,0 +1,87 @@
+
+    
+
+.container{
+    width: 50vw; 
+    margin: 200px auto;
+    font-family: 'Karla', sans-sariff;
+    display: flex ;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.registration{
+    background-color: white;
+    padding: 20px 30px 20px 30px;
+    width: 100%;
+
+}
+
+.registration-h3{
+
+ color: hsl(179, 62%, 43%);
+
+ font-size: 24px;
+       
+}
+
+.registration-h4{
+   color:hsl(71, 73%, 54%);
+}
+
+.registration-p{
+    color:hsl(218, 22%, 67%);
+    line-height: 24px;
+}
+
+body{
+  background-color:hsl(204, 43%, 93%);
+  
+}
+.signup{
+    background-color: hsl(179, 62%, 43%);
+    padding: 20px 30px 20px 30px;
+    width: 50%;
+    color: white;
+
+}
+.signup-h3{
+    font-size: 30px;
+}
+.signup-p{
+    margin-top: -20px;
+    
+}
+.permonth{
+    font-size: 14px;
+    font-weight: 400;
+}
+.WhyUs{
+    background-color: turquoise;
+    padding: 20px 30px 20px 30px;
+    width: 50%;
+    color:white;
+}
+
+.WhyUs-h3{ 
+   font-size: 14px;
+}
+
+*{box-sizing: border-box;
+    
+
+}
+.WhyUs-b{
+    line-height: 24px;
+}
+.link{
+    background-color:hsl(71, 73%, 54%);
+    width: 85%;
+    display: block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    border-radius: 7px;
+}
